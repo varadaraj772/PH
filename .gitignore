@@ -1,0 +1,16 @@
+# Ignore virtual environments
+ph-venv/
+
+# Ignore model artifacts
+saved_model_pothole/
+*.tflite
+
+# Ignore zip archives
+*.zip
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# (Optionally ignore logs, if any)
+*.log
