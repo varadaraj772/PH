@@ -1,38 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Pothole Detection with TensorFlow Lite</title>
-  <style>
-    body {
-      font-family: "Segoe UI", sans-serif;
-      line-height: 1.6;
-      max-width: 800px;
-      margin: 2rem auto;
-      padding: 1rem;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    code, pre {
-      background-color: #f4f4f4;
-      padding: 0.4em 0.6em;
-      border-radius: 5px;
-      font-family: monospace;
-    }
-    pre {
-      overflow-x: auto;
-    }
-    .box {
-      background: #fdfdfd;
-      border: 1px solid #ddd;
-      border-left: 4px solid #007acc;
-      padding: 1em;
-      margin: 1em 0;
-    }
-  </style>
-</head>
 <body>
 
 <h1>Pothole Detection with TensorFlow Lite</h1>
