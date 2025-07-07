@@ -1,16 +1,17 @@
-# Ignore virtual environments
+# Ignore virtual environment
 ph-venv/
 
-# Ignore model artifacts
-saved_model_pothole/
+# Ignore saved models and artifacts
+*.h5
 *.tflite
+saved_model_pothole/
 
-# Ignore zip archives
+# Ignore datasets
 *.zip
 
-# Ignore system files
-.DS_Store
-Thumbs.db
-
-# (Optionally ignore logs, if any)
+# Ignore plots, logs, and temp files
+training_plot.png
 *.log
+
+# Ignore private credentials
+kaggle.json
