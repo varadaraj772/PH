@@ -33,7 +33,7 @@
 </ul>
 
 <h2>Setup</h2>
-<pre><code>git clone https://github.com/your-username/pothole-detection.git
+<pre><code>git clone https://github.com/varadaraj772/PH.git
 cd pothole-detection
 
 python3 -m venv ph-venv
